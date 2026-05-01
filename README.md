@@ -6,7 +6,7 @@ The system relies strictly on keyword-based NLP heuristics and deterministic log
 
 ---
 
-## 🎯 Features & Pipeline Architecture
+##Features & Pipeline Architecture
 
 The agent processes each ticket through a rigorous pipeline to understand its intent, assess financial/security risk, and formulate a safe response or escalation:
 
@@ -26,7 +26,7 @@ The agent processes each ticket through a rigorous pipeline to understand its in
 
 ---
 
-## 📁 File Structure
+## File Structure
 
 - `triage_agent.py`: The main CLI application containing the core logic and pipeline.
 - `files/asset/upload/support_tickets.csv`: The default input CSV file containing the raw support tickets.
@@ -34,7 +34,7 @@ The agent processes each ticket through a rigorous pipeline to understand its in
 
 ---
 
-## 🚀 Usage Instructions
+## Usage Instructions
 
 The script is entirely self-contained. It reads from the standard input CSV and writes directly to `output.csv`.
 
@@ -54,7 +54,7 @@ python triage_agent.py --input path/to/input.csv --output path/to/custom_output.
 
 ---
 
-## 🛡️ Edge Cases Handled Successfully
+## Edge Cases Handled Successfully
 
 - **Prompt Injection Prevention**: Tickets asking to *"ignore previous prompts"* or *"delete code"* are classified as `invalid` and escalated immediately.
 - **Dynamic Bug Handling**: General technical difficulties are replied to safely with troubleshooting steps, whereas *"critical"* outages or complete platform crashes are automatically escalated.
