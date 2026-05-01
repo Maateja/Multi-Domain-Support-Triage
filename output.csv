@@ -1,0 +1,46 @@
+status,product_area,response,justification,request_type
+replied,account,"To regain access or modify workspace seats, please contact your workspace admin. For security reasons, Claude Support cannot manually modify account access or ownership.","product_issue detected, mapped to account, risk=low",product_issue
+escalated,fraud_security,Your issue has been escalated to our specialized human support team for immediate review.,"product_issue detected, mapped to fraud_security, risk=high",product_issue
+escalated,fraud_security,Your issue has been escalated to our specialized human support team for immediate review.,"bug detected, mapped to fraud_security, risk=high",bug
+escalated,fraud_security,Your issue has been escalated to our specialized human support team for immediate review.,"bug detected, mapped to fraud_security, risk=high",bug
+replied,billing,"Hi,
+
+Thank you for reaching out. Please refer to the HackerRank Support Center for step-by-step guides on managing your tests and subscriptions.","bug detected, mapped to billing, risk=low",bug
+replied,assessments,"To use HackerRank for hiring or set up compliance requirements, please contact the sales or onboarding team to complete setup.","product_issue detected, mapped to assessments, risk=low",product_issue
+replied,general,"Hi,
+
+Thank you for reaching out. Please refer to the HackerRank Support Center for step-by-step guides on managing your tests and subscriptions.","bug detected, mapped to general, risk=low",bug
+replied,assessments,"Hi,
+
+Test policies, including time limits and scores, are set by the administering company. Please ensure you are using a supported browser and a stable internet connection. If you are experiencing technical difficulties, clear your browser cache or switch to an incognito window.","bug detected, mapped to assessments, risk=low",bug
+replied,assessments,"Hi,
+
+Test policies, including time limits and scores, are set by the administering company. Please ensure you are using a supported browser and a stable internet connection. If you are experiencing technical difficulties, clear your browser cache or switch to an incognito window.","bug detected, mapped to assessments, risk=low",bug
+replied,assessments,"Hi,
+
+Test policies, including time limits and scores, are set by the administering company. Please ensure you are using a supported browser and a stable internet connection. If you are experiencing technical difficulties, clear your browser cache or switch to an incognito window.","product_issue detected, mapped to assessments, risk=low",product_issue
+replied,assessments,"Hi,
+
+Test policies, including time limits and scores, are set by the administering company. Please ensure you are using a supported browser and a stable internet connection. If you are experiencing technical difficulties, clear your browser cache or switch to an incognito window.","product_issue detected, mapped to assessments, risk=low",product_issue
+replied,general,Thank you for reaching out. We recommend checking our official documentation for the most accurate guidance on this topic.,"bug detected, mapped to general, risk=low",bug
+replied,assessments,"Hi,
+
+Test policies, including time limits and scores, are set by the administering company. Please ensure you are using a supported browser and a stable internet connection. If you are experiencing technical difficulties, clear your browser cache or switch to an incognito window.","product_issue detected, mapped to assessments, risk=low",product_issue
+replied,billing,"To use HackerRank for hiring or set up compliance requirements, please contact the sales or onboarding team to complete setup.","product_issue detected, mapped to billing, risk=low",product_issue
+replied,general,"Thank you for contacting Claude support. For data privacy and terms of use, please review our official trust and safety documentation.","bug detected, mapped to general, risk=low",bug
+escalated,fraud_security,Your issue has been escalated to our specialized human support team for immediate review.,"product_issue detected, mapped to fraud_security, risk=high",product_issue
+escalated,general,We detected a critical outage or bug. This issue has been immediately escalated to our engineering team.,"bug detected, mapped to general, risk=low",bug
+replied,assessments,"Hi,
+
+Test policies, including time limits and scores, are set by the administering company. Please ensure you are using a supported browser and a stable internet connection. If you are experiencing technical difficulties, clear your browser cache or switch to an incognito window.","product_issue detected, mapped to assessments, risk=low",product_issue
+escalated,fraud_security,Your issue has been escalated to our specialized human support team for immediate review.,"product_issue detected, mapped to fraud_security, risk=high",product_issue
+escalated,fraud_security,Your issue has been escalated to our specialized human support team for immediate review.,"bug detected, mapped to fraud_security, risk=high",bug
+replied,general,"Thank you for contacting Claude support. For data privacy and terms of use, please review our official trust and safety documentation.","product_issue detected, mapped to general, risk=low",product_issue
+replied,payments,"Call the issuer immediately. If you have a specific dispute, please follow the formal dispute process in the app or website. Refunds can typically be arranged within standard business hours subject to T&Cs.","product_issue detected, mapped to payments, risk=low",product_issue
+replied,general,"Thank you for contacting Claude support. For data privacy and terms of use, please review our official trust and safety documentation.","product_issue detected, mapped to general, risk=low",product_issue
+escalated,fraud_security,"I am sorry, this is out of scope from my capabilities.","product_issue detected, mapped to fraud_security, risk=low",product_issue
+replied,fraud_security,"Call the issuer immediately. If you have a specific dispute, please follow the formal dispute process in the app or website. Refunds can typically be arranged within standard business hours subject to T&Cs.","product_issue detected, mapped to fraud_security, risk=low",product_issue
+replied,general,"Thank you for contacting Claude support. For data privacy and terms of use, please review our official trust and safety documentation.","bug detected, mapped to general, risk=low",bug
+replied,account,"To use HackerRank for hiring or set up compliance requirements, please contact the sales or onboarding team to complete setup.","product_issue detected, mapped to account, risk=low",product_issue
+replied,general,"Thank you for contacting Claude support. For data privacy and terms of use, please review our official trust and safety documentation.","product_issue detected, mapped to general, risk=low",product_issue
+replied,payments,"Call the issuer immediately. If you have a specific dispute, please follow the formal dispute process in the app or website. Refunds can typically be arranged within standard business hours subject to T&Cs.","product_issue detected, mapped to payments, risk=low",product_issue
